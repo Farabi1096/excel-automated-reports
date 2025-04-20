@@ -24,4 +24,4 @@ I created a **clean, professional business dashboard** using Excel, **Power Quer
 
 ## 🙌 Thank You for Exploring My Portfolio!  
 Let's connect and collaborate—open to opportunities, feedback, and new ideas.  
-🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/)
+🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/).
