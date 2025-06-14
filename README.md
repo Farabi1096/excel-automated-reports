@@ -12,7 +12,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hs
 A clean, professional dashboard built using **Excel**, **Power Query**, and **Power Pivot**, designed to automate data handling and enhance business performance tracking.
 
 #### 🖼️ Screenshot  
-![Excel Dashboard Screenshot](images/excel-dashboard.jpeg)
+![Excel Dashboard Screenshot](/Images/excel%20dashboard.jpeg)
 
 #### 📝 Highlights  
 - Automated data transformation using **Power Query**  
