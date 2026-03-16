@@ -1,29 +1,23 @@
-# 📁 Excel Automated Reports Portfolio
-
-Welcome to my Excel Automated Reports Portfolio! This space highlights the work I’ve done in automating data processing, building insightful dashboards, and streamlining business reporting using **Microsoft Excel**.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) or explore more on [GitHub](https://github.com/Farabi1096/).
+# Excel Automated Portfolio
+**Farabi1096 / excel-portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-217346?style=flat-square&logoColor=white)](https://github.com/Farabi1096) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
-## 📊 Excel Works
-
-### 📌 Project 1: Automated Business Dashboard in Excel  
-A clean, professional dashboard built using **Excel**, **Power Query**, and **Power Pivot**, designed to automate data handling and enhance business performance tracking.
-
-#### 🖼️ Screenshot  
-![Excel Dashboard Screenshot](/Images/excel%20dashboard.jpeg)
-
-#### 📝 Highlights  
-- Automated data transformation using **Power Query**  
-- Scalable data modeling via **Power Pivot**  
-- Visual KPIs and summaries for quick performance insights  
-- User-friendly design with slicers and clean layout  
-
-**Tools Used**: Excel, Power Query, Power Pivot, Pivot Tables, Conditional Formatting
+### 🛠️ Expertise
+![ETL](https://img.shields.io/badge/ETL-Power_Query-217346?style=flat-square&logoColor=white) ![Modeling](https://img.shields.io/badge/Modeling-Power_Pivot-217346?style=flat-square&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-Pivot_Tables_%7C_VBA-217346?style=flat-square&logoColor=white)
 
 ---
 
-## 🙌 Thank You for Exploring My Portfolio!  
-Let's connect and collaborate—open to opportunities, feedback, and new ideas.  
-🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/Farabi1096/)
+### ![P1](https://img.shields.io/badge/Project_1-Automated_Business_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+> **The Problem:** Manual data processing was causing reporting delays and human errors in performance tracking.  
+> **The Solution:** Developed a fully automated reporting system using Power Query for ETL and Power Pivot for scalable modeling, reducing processing time by 90%.
+
+<p align="center">
+  <img src="Images/excel%20dashboard.jpeg" width="90%" />
+</p>
+
+* **Automated Transformation:** Cleaned and shaped raw data using Power Query.
+* **Scalable Modeling:** Built relationships and DAX measures via Power Pivot.
+* **Dynamic Visualization:** Interactive KPIs with Slicers and Conditional Formatting for instant insights.
+
+---
