@@ -4,9 +4,7 @@
 ---
 
 ### 🛠️ Expertise
-**ETL:** Power Query  
-**Modeling:** Power Pivot  
-**Automation:** Pivot Tables, Slicers, DAX
+![ETL](https://img.shields.io/badge/ETL-Power_Query-217346?style=flat-square) ![Modeling](https://img.shields.io/badge/Modeling-Power_Pivot-217346?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-Pivot_Tables_%7C_DAX-217346?style=flat-square)
 
 ---
 
