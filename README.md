@@ -10,9 +10,19 @@
 
 ---
 
+### ![P2](https://img.shields.io/badge/Project_2-Sales_Performance_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+> **Problem:** The need for a quick, one-page business overview to track complex growth metrics.  
+> **Solution:** Developed an interactive sales dashboard featuring MoM and YoY analysis, providing instant brand and channel insights through dynamic filtering.
+
+<p align="center">
+  <img src="Images/excel%20dashboard%202.jpg" width="90%" />
+</p>
+
+---
+
 ### ![P1](https://img.shields.io/badge/Project_1-Automated_Business_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 > **Problem:** Manual data processing was causing reporting delays and human errors in performance tracking.  
-> **Solution:** Developed a fully automated reporting system using Power Query and Power Pivot, significantly reducing manual effort and improving accuracy.
+> **Solution:** Built a fully automated reporting system using Power Query and Power Pivot, significantly reducing manual effort and improving data accuracy.
 
 <p align="center">
   <img src="Images/excel%20dashboard.jpeg" width="90%" />
