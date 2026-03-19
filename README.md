@@ -8,6 +8,16 @@
 
 ---
 
+### ![P3](https://img.shields.io/badge/Project_3-Promo_Tracker_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+> **Problem:** Difficulty in tracking and comparing promotional vs. non-promotional sales performance across various modern trade accounts and brands.  
+> **Solution:** Developed an interactive Promo Tracker dashboard that visualizes month-over-month growth, promo volume distribution, and brand contributions with dynamic filtering capabilities.
+
+<p align="center">
+  <img src="Images/excel%20dashboard%203.png" width="90%" />
+</p>
+
+---
+
 ### ![P2](https://img.shields.io/badge/Project_2-Sales_Performance_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 > **Problem:** The need for a quick, one-page business overview to track complex growth metrics.  
 > **Solution:** Developed an interactive sales dashboard featuring MoM and YoY analysis, providing instant brand and channel insights through dynamic filtering.
