@@ -1,5 +1,5 @@
-# Excel Portfolio
-**Farabi1096 / excel-portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-217346?style=flat-square&logoColor=white)](https://github.com/Farabi1096/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
+# Excel Dashboard
+**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-217346?style=flat-square&logoColor=white)](https://github.com/Farabi1096/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
